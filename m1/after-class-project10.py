@@ -1,7 +1,6 @@
-num = int(input("Enter a number: "))
+n = int(input("Enter a number: "))
 
 count = 0
-n = num
 
 if n == 0:
     count = 1
